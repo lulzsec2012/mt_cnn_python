@@ -1,0 +1,6 @@
+model_checkpoint_path: "onet-16"
+all_model_checkpoint_paths: "onet-12"
+all_model_checkpoint_paths: "onet-13"
+all_model_checkpoint_paths: "onet-14"
+all_model_checkpoint_paths: "onet-15"
+all_model_checkpoint_paths: "onet-16"
